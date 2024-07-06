@@ -3,8 +3,8 @@
 Hi, I'm Ngoc Linh. An intern/fresher software engineer is looking for a new opportunity to gain experience and be able to apply the knowledge and skills learned in software technology to the job. I am interested in the following areas: software development, web development, and data analysis.
 
 <!-- Dashboard -->
-<img alt="my stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=liniio&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" />
-<img alt="top langs" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liniio&layout=compact" />
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=liniio&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" />
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liniio&layout=compact" />
 
 <!-- Contact -->
 ### Contact Information
