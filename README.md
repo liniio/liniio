@@ -4,8 +4,8 @@ Hi, I'm Ngoc Linh. An intern/fresher software engineer is looking for a new oppo
 
 <!-- Dashboard -->
 <div display="flex">
-  <img alt="my stats" width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=liniio&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" />
-  <img alt="top langs" width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liniio&layout=compact" />
+  <img alt="my stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=liniio&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" />
+  <img alt="top langs" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liniio&layout=compact" />
 </div>
 
 <!-- Contact -->
