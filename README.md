@@ -15,34 +15,12 @@ Hi, I'm Ngoc Linh
 
 Feel free to connect with me for any inquiries or collaborations.
 
-<!-- <p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=white&fontFamily=Ubuntu" alt="LinkedIn">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-GMAIL-D2472F?style=for-the-badge&logo=gmail&logoColor=white&label=Gmail&labelColor=white&fontFamily=Ubuntu" alt="Gmail">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=white&fontFamily=Ubuntu" alt="GitHub">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=Facebook&labelColor=white&fontFamily=Ubuntu" alt="Facebook">
-  </a>
-</p> -->
-
-<p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white&fontFamily=Ubuntu" alt="LinkedIn">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-GMAIL-D2472F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&fontFamily=Ubuntu" alt="Gmail">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github&logoColor=white&labelColor=white&fontFamily=Ubuntu" alt="GitHub">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=white&fontFamily=Ubuntu" alt="Facebook">
-  </a>
+<p align="center" style="font-family: Ubuntu;">
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
 </p>
 
 ---
