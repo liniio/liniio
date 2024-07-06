@@ -4,11 +4,9 @@
 Hi, I'm Ngoc Linh 
 
 <!-- Programming -->
-## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=liniio&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" alt="my stats" width="50%" algin="left"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=liniio&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" alt="gitHub stats" width="50%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liniio&layout=compact" alt="top langs" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liniio&layout=compact" alt="top langs" width="50%" algin="left"/>
 <!-- Skills -->
 
 <!-- Contact -->
