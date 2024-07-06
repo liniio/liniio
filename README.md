@@ -15,11 +15,11 @@ Hi, I'm Ngoc Linh
 
 Feel free to connect with me for any inquiries or collaborations.
 
-<p style="font-family: Ubuntu;">
-  <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=white" alt="Github"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=0866FF&labelColor=white" alt="Facebook"/></a>&nbsp;
 </p>
 
 ---
