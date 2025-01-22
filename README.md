@@ -1,6 +1,6 @@
 <!-- Intro -->
 ### WELCOME TO MY PAGE 👋
-Hi, I'm Ngoc Linh. An intern/fresher software engineer is looking for a new opportunity to gain experience and be able to apply the knowledge and skills learned in software technology to the job. I am interested in the following areas: software development, web development, and data analysis.
+Hi, I'm Ngoc Linh. Software engineer is looking for a new opportunity to gain experience and be able to apply the knowledge and skills learned in software technology to the job. I am interested in the following areas: software development, web development, and data analysis.
 
 <!-- Dashboard -->
 <br>
@@ -27,4 +27,4 @@ Feel free to connect with me for any inquiries or collaborations.
 
 ---
 
-© Nguyen Ngoc Linh, 2024
+© Nguyen Ngoc Linh, 2025
